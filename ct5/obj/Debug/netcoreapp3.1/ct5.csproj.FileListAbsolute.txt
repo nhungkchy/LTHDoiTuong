@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/ct5/bin/Debug/netcoreapp3.1/ct5.deps.json
+/Users/lethihongnhung/Desktop/ct5/bin/Debug/netcoreapp3.1/ct5.runtimeconfig.json
+/Users/lethihongnhung/Desktop/ct5/bin/Debug/netcoreapp3.1/ct5.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/ct5/bin/Debug/netcoreapp3.1/ct5.dll
+/Users/lethihongnhung/Desktop/ct5/bin/Debug/netcoreapp3.1/ct5.pdb
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.dll
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.pdb
+/Users/lethihongnhung/Desktop/ct5/obj/Debug/netcoreapp3.1/ct5.genruntimeconfig.cache
