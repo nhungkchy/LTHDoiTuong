@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "access_modijiens/1.0.0": {
+        "runtime": {
+          "access_modijiens.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "access_modijiens/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

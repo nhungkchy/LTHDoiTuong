@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/bin/Debug/netcoreapp3.1/access_modijiens.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/bin/Debug/netcoreapp3.1/access_modijiens.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/bin/Debug/netcoreapp3.1/access_modijiens.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/bin/Debug/netcoreapp3.1/access_modijiens.dll
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/bin/Debug/netcoreapp3.1/access_modijiens.pdb
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.dll
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.pdb
+/Users/lethihongnhung/Desktop/LTHDT/access_modijiens/obj/Debug/netcoreapp3.1/access_modijiens.genruntimeconfig.cache
