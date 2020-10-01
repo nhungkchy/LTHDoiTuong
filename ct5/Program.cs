@@ -1,4 +1,5 @@
-﻿using System;
+﻿// namespace
+using System;
 using Animal;
 
 namespace Animal

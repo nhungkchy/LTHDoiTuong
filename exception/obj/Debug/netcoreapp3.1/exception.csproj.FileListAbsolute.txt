@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/exception/bin/Debug/netcoreapp3.1/exception.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/exception/bin/Debug/netcoreapp3.1/exception.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/exception/bin/Debug/netcoreapp3.1/exception.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/exception/bin/Debug/netcoreapp3.1/exception.dll
+/Users/lethihongnhung/Desktop/LTHDT/exception/bin/Debug/netcoreapp3.1/exception.pdb
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.dll
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.pdb
+/Users/lethihongnhung/Desktop/LTHDT/exception/obj/Debug/netcoreapp3.1/exception.genruntimeconfig.cache

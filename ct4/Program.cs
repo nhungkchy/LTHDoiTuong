@@ -1,5 +1,6 @@
 ﻿using System;
 
+// static
 namespace ct4
 {
     class Car

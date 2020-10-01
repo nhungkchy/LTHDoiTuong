@@ -1,4 +1,6 @@
-﻿using System;
+﻿// attribute, method, public, private
+
+using System;
 
 namespace ct3
 {

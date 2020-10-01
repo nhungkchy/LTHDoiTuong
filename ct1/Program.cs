@@ -1,4 +1,5 @@
-﻿using System;
+﻿// class
+using System;
 
 namespace ct1
 {

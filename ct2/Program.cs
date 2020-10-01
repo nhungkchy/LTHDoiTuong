@@ -1,4 +1,5 @@
-﻿using System;
+﻿// get, set
+using System;
 
 namespace ct2
 {
