@@ -59,7 +59,7 @@ namespace access_modijiens
             this.cost = cost;
             this.namephone = namephone;
         }
-        public void Info()
+        public new void Info()
         {
             Console.WriteLine("Day la dien thoai: "+namephone);
             Console.WriteLine("Nha san xuat: SamSung");
@@ -84,7 +84,7 @@ namespace access_modijiens
             this.namephone = namephone;
         }
 
-        public void Info()
+        public new void Info()
         {
             Console.WriteLine("Day la dien thoai: "+namephone);
             Console.WriteLine("Nha san xuat: Apple");
@@ -100,7 +100,7 @@ namespace access_modijiens
             HDH = "IOS";
             cost = 99000000;
         }
-        public void Info()
+        public new void Info()
         {
             Console.WriteLine("Day la dien thoai: Iphone12");
             Console.WriteLine("Nha san xuat: Apple");

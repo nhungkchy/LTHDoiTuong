@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/bin/Debug/netcoreapp3.1/try-catch.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/bin/Debug/netcoreapp3.1/try-catch.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/bin/Debug/netcoreapp3.1/try-catch.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/bin/Debug/netcoreapp3.1/try-catch.dll
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/bin/Debug/netcoreapp3.1/try-catch.pdb
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.dll
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.pdb
+/Users/lethihongnhung/Desktop/LTHDT/try-catch/obj/Debug/netcoreapp3.1/try-catch.genruntimeconfig.cache
