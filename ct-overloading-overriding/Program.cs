@@ -1,4 +1,4 @@
-﻿// C# program to demonstrate the method overriding  
+﻿//  the method overloading and overriding  
 // without using 'virtual' and 'override' modifiers 
 using System; 
 
@@ -8,25 +8,18 @@ namespace ct_overloading_overriding
     class baseClass 
     
     { 
-        private int a = 3;
-        private int b;
-        public int B
+        public int a;
+        public int b;
+        public baseClass(int a, int b)
         {
-            get{return B;}
-            set
-            {
-                try
-                {
-                    
-                    B = value;
-                    Console.WriteLine("b đã được gán gtr");
-                }
-                catch (System.Exception)
-                {
-                    Console.WriteLine("b không được gán");
-                    throw;
-                }
-            }
+            this.a = a;
+            this.b = b;
+        }
+
+        public void sum()
+        {
+            int c = a+b;
+            Console.WriteLine("Sum: "+ c);
         }
 
         public virtual void show() 
@@ -37,7 +30,17 @@ namespace ct_overloading_overriding
     
     class derived : baseClass 
     { 
-        
+        public derived(int a, int b) : base(a, b)
+        {
+            this.a = a;
+            this.b = b;
+        }
+
+        public void div()
+        {
+            float c = a/b;
+            Console.WriteLine("Div: "+ c);
+        }
 
         public override void show()  
         { 
@@ -51,12 +54,13 @@ namespace ct_overloading_overriding
 
         static void Main(string[] args)
         {
-            baseClass obj = new baseClass(); 
-            obj.show(); 
-            obj.B = 1000;
+            baseClass obj1 = new baseClass(3,5); 
+            obj1.show(); 
+            obj1.sum();
             
-            obj = new derived(); 
-            obj.show(); 
+            derived obj2 = new derived(5,7); 
+            obj2.show(); 
+            obj2.div();
             
         }
     }
