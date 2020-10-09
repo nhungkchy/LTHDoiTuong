@@ -1,4 +1,5 @@
-﻿//  the method overloading and overriding  
+﻿// array as obj
+// the method overloading and overriding  
 // without using 'virtual' and 'override' modifiers 
 using System; 
 
@@ -57,7 +58,7 @@ namespace ct_overloading_overriding
             baseClass obj1 = new baseClass(3,5); 
             obj1.show(); 
             obj1.sum();
-            
+            baseClass[] array = new baseClass[4]; 
             derived obj2 = new derived(5,7); 
             obj2.show(); 
             obj2.div();
