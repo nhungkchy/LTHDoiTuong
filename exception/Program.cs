@@ -8,6 +8,24 @@ namespace exception
         int x;
         int y;
         private int div = 0;
+        private int c;
+
+        public int C
+        {
+            get{return C;}
+            set
+            {
+                try
+                {
+                    C = value;
+                    Console.WriteLine("C dc gan gtr");
+                }
+                catch (System.Exception)
+                {
+                    Console.WriteLine("error!!");
+                }
+            }
+        }
         public TinhChia(int x, int y)
         {
             this.x = x;
