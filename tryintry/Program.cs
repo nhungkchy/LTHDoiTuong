@@ -1,4 +1,5 @@
-﻿using System;
+﻿// try-catch in try-catch
+using System;
 
 namespace tryintry
 {
@@ -15,10 +16,6 @@ namespace tryintry
                 try
                 {
             	int[] arr= {1,2,3,4};
-            	/* I'm trying to display the value of
-            	 * an element which doesn't exist. The
-            	 * code should throw an exception
-            	 */
             	Console.WriteLine(arr[10]);
                 }
                 catch(ArithmeticException e)
