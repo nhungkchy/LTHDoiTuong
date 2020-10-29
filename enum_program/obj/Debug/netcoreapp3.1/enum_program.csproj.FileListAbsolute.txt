@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/bin/Debug/netcoreapp3.1/enum_program.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/bin/Debug/netcoreapp3.1/enum_program.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/bin/Debug/netcoreapp3.1/enum_program.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/bin/Debug/netcoreapp3.1/enum_program.dll
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/bin/Debug/netcoreapp3.1/enum_program.pdb
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.dll
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.pdb
+/Users/lethihongnhung/Desktop/LTHDT/enum_program/obj/Debug/netcoreapp3.1/enum_program.genruntimeconfig.cache
