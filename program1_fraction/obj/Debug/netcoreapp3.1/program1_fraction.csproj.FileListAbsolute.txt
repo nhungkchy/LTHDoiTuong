@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/bin/Debug/netcoreapp3.1/program1_fraction.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/bin/Debug/netcoreapp3.1/program1_fraction.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/bin/Debug/netcoreapp3.1/program1_fraction.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/bin/Debug/netcoreapp3.1/program1_fraction.dll
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/bin/Debug/netcoreapp3.1/program1_fraction.pdb
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.dll
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.pdb
+/Users/lethihongnhung/Desktop/LTHDT/program1_fraction/obj/Debug/netcoreapp3.1/program1_fraction.genruntimeconfig.cache
