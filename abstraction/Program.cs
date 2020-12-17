@@ -27,9 +27,9 @@ namespace abstraction
     {
     static void Main(string[] args)
         {
-            Pig myPig = new Pig(); // Create a Pig object
-            myPig.animalSound();  // Call the abstract method
-            myPig.sleep();  // Call the regular method
+            Pig myPig = new Pig(); 
+            myPig.animalSound(); 
+            myPig.sleep(); 
         }
     }
 }
