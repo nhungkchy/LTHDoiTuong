@@ -80,9 +80,12 @@ namespace program1_fraction
             {
                 if (num1 < num2)
                 {
-                    int tmp = num1;
-                    num1 = num2;
-                    num2 = tmp;
+                    num1 = num1 + num2;
+                    num2 = num1 - num2;
+                    num1 = num1 - num2;
+                    // int tmp = num1;
+                    // num1 = num2;
+                    // num2 = tmp;
                 }
                 num1 = num1 % num2;
             }
@@ -95,14 +98,50 @@ namespace program1_fraction
             return  numerator + "/" + denominator;
         }
 
-        public static Fraction operator +(Fraction a, Fraction b)
+        private static Fraction Inverse(Fraction frac)
         {
-            Fraction sum_f = new Fraction();
-            sum_f.numerator = a.numerator*b.denominator + a.denominator*b.numerator;
-            sum_f.denominator = a.denominator * b.denominator;
-            sum_f.Reduce();
-            return sum_f;
+            if (frac.numerator == 0)
+                throw new InvalidOperationException("Denominator cannot be assigned 0 Value");
+
+            int Numerator = frac.denominator;
+            int Denominator = frac.numerator;
+            return new Fraction(Numerator, Denominator);
         }
+
+        public static Fraction operator +(Fraction frac1, Fraction frac2)
+        {
+ 
+            int Numerator = frac1.numerator * frac2.denominator + frac2.numerator * frac1.denominator;
+            int Denominator = frac1.denominator * frac2.denominator;
+            return new Fraction(Numerator, Denominator);
+        }
+
+        public static Fraction operator -(Fraction frac1, Fraction frac2)
+        {
+            int Numerator = frac1.numerator * frac2.denominator - frac2.numerator * frac1.denominator;
+            int Denominator = frac1.denominator * frac2.denominator;
+            return new Fraction(Numerator, Denominator);
+        }
+        public static Fraction operator *(Fraction frac1, Fraction frac2)
+        {
+            int Numerator = frac1.numerator * frac2.numerator;
+            int Denominator = frac1.denominator * frac2.denominator;
+            return new Fraction(Numerator, Denominator);
+        }
+
+        public static Fraction operator /(Fraction frac1, Fraction frac2)
+        {
+            try
+            {
+                Fraction result = frac1 * Inverse(frac2);
+                return result;
+            }
+            catch(InvalidOperationException)
+            {
+                throw new InvalidOperationException("error!");
+            }
+        }      
+
 
         public static bool operator >(Fraction a, Fraction b)
         {
@@ -129,11 +168,88 @@ namespace program1_fraction
             return status;
         }
 
+        public static bool operator >=(Fraction a, Fraction b)
+        {
+            bool status = false;
+            int a1 = a.numerator * b.denominator;
+            int b1 = b.numerator * a.denominator;
+
+            if (a1 >= b1)
+            {
+                status = true;
+            }
+            return status;
+        }
+           public static bool operator <=(Fraction a, Fraction b)
+        {
+            bool status = false;
+            int a1 = a.numerator * b.denominator;
+            int b1 = b.numerator * a.denominator;
+
+            if (a1 <= b1)
+            {
+                status = true;
+            }
+            return status;
+        }
+        public static bool operator !=(Fraction a, Fraction b)
+        {
+            bool status = false;
+
+            if ((a.numerator != b.numerator) || (a.denominator != b.denominator))
+            {   
+                if(a.numerator == 0 && b.numerator == 0)
+                {
+                    status = false;
+                }
+                status = true;
+            }
+            return status;
+        }
+           public static bool operator ==(Fraction a, Fraction b)
+        {
+            bool status = false;
+            if(a.numerator == 0 && b.numerator == 0)
+            {
+                status = true;
+            }
+
+            if ((a.numerator == b.numerator) && (a.denominator == b.denominator))
+            {
+                status = true;
+            }
+            return status;
+        }
+
     }
+
     class Program
     {
         static void Main(string[] args)
         {
+            try
+            {
+                Fraction a1 = new Fraction(0);
+                Fraction b1 = new Fraction(4,8);
+
+                Console.WriteLine("a1: "+a1+"\n"+"b1: "+b1);
+                Console.WriteLine("a1-b1: "+ (a1-b1));
+                Console.WriteLine("a1+b1: "+(a1+b1));
+                Console.WriteLine("a1*b1: "+(a1*b1));
+                Console.WriteLine("b1/a1: "+(b1/a1));
+                Console.WriteLine("a > b: "+ (a1>b1));
+                Console.WriteLine("a < b: "+ (a1<b1));
+                Console.WriteLine("a >= b: "+ (a1>=b1));
+                Console.WriteLine("a <= b: "+ (a1<=b1));
+                Console.WriteLine("a != b: "+ (a1!=b1));
+                Console.WriteLine("a == b: "+ (a1==b1));
+            }
+            catch(Exception )
+            {
+                throw new Exception("error!");
+            }
+
+
             Fraction[] fracs = {new Fraction(10,9),new Fraction(8,9),
                                 new Fraction(7,19),new Fraction(7,6),
                                 new Fraction(8,2),new Fraction(1,2),

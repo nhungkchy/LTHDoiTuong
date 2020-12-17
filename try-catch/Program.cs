@@ -3,11 +3,8 @@ using System;
 
 namespace try_catch
 {
-     // Lớp tiện ích xử lý số
     public class NumberUtility
     {
-    
-        // Hàm hỗ trợ chuyển đổi chuỗi đầu vào thành kiểu Int
         public static int GetIntFromString(string pInput)
         {
             int result = 0;
@@ -15,7 +12,6 @@ namespace try_catch
             {
                 result = int.Parse(pInput);
             }
-            // Ngoại lệ ArgumentNullException xảy ra khi người dùng không nhập dữ liệu
             catch (ArgumentNullException ane)
             {
                 Console.Write("Your string is null, " + ane.ToString());

@@ -5,15 +5,15 @@ namespace interfaces
 {
     interface IFirstInterface 
     {
-         void myMethod(); // interface method
+         void myMethod();
     }
 
     interface ISecondInterface 
     {
-        void myOtherMethod(); // interface method
+        void myOtherMethod(); 
     }
 
-    // Implement multiple interfaces
+
     class DemoClass : IFirstInterface, ISecondInterface 
     
     {
