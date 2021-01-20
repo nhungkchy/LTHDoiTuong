@@ -1,0 +1,12 @@
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.csprojAssemblyReference.cache
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.AssemblyInfoInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.AssemblyInfo.cs
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.csproj.CoreCompileInputs.cache
+/Users/lethihongnhung/Desktop/LTHDT/shape/bin/Debug/netcoreapp3.1/shape.deps.json
+/Users/lethihongnhung/Desktop/LTHDT/shape/bin/Debug/netcoreapp3.1/shape.runtimeconfig.json
+/Users/lethihongnhung/Desktop/LTHDT/shape/bin/Debug/netcoreapp3.1/shape.runtimeconfig.dev.json
+/Users/lethihongnhung/Desktop/LTHDT/shape/bin/Debug/netcoreapp3.1/shape.dll
+/Users/lethihongnhung/Desktop/LTHDT/shape/bin/Debug/netcoreapp3.1/shape.pdb
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.dll
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.pdb
+/Users/lethihongnhung/Desktop/LTHDT/shape/obj/Debug/netcoreapp3.1/shape.genruntimeconfig.cache
